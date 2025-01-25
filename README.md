@@ -42,8 +42,13 @@ End-to-end implementation, including data collection, preprocessing, model build
 Technologies and Tools Used:-
 
 -Programming Languages: Python, SQL
+
 -Data Manipulation Libraries: Pandas, NumPy
+
 -Visualization Tools: Matplotlib, Seaborn, Plotly
+
 -Machine Learning Libraries: Scikit-learn, TensorFlow, Keras
+
 -Big Data Tools: PySpark, Hadoop
+
 -Other Tools: Power BI, Jupyter Notebook, Google Colab
