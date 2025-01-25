@@ -1,4 +1,4 @@
-Data Science 2.0 Assignments
+# Data Science 2.0 Assignments
 
 
 Welcome to the Data Science 2.0 Assignments Repository! This repository contains a comprehensive collection of assignments I completed during the 9-month Data Science 2.0 course offered by Physics Wallah. These assignments demonstrate a wide range of skills, tools, and techniques essential for data science and machine learning.
@@ -11,10 +11,10 @@ Feature engineering and selection.
 Data scaling and normalization techniques.
 Exploratory Data Analysis (EDA)
 
-Visualizing data using libraries like Matplotlib and Seaborn.
-Uncovering patterns, trends, and insights from datasets.
-Statistical analysis for hypothesis testing.
-Machine Learning Algorithms
+-Visualizing data using libraries like Matplotlib and Seaborn.
+-Uncovering patterns, trends, and insights from datasets.
+-Statistical analysis for hypothesis testing.
+-Machine Learning Algorithms
 
 Implementation of supervised learning models like Linear Regression, Logistic Regression, Decision Trees, and Random Forests.
 Building unsupervised learning models, including K-Means Clustering and PCA.
@@ -38,10 +38,12 @@ Capstone Project
 
 A project integrating concepts from the course to solve a real-world data science problem.
 End-to-end implementation, including data collection, preprocessing, model building, and evaluation.
-Technologies and Tools Used
-Programming Languages: Python, SQL
-Data Manipulation Libraries: Pandas, NumPy
-Visualization Tools: Matplotlib, Seaborn, Plotly
-Machine Learning Libraries: Scikit-learn, TensorFlow, Keras
-Big Data Tools: PySpark, Hadoop
-Other Tools: Power BI, Jupyter Notebook, Google Colab
+
+Technologies and Tools Used:-
+
+-Programming Languages: Python, SQL
+-Data Manipulation Libraries: Pandas, NumPy
+-Visualization Tools: Matplotlib, Seaborn, Plotly
+-Machine Learning Libraries: Scikit-learn, TensorFlow, Keras
+-Big Data Tools: PySpark, Hadoop
+-Other Tools: Power BI, Jupyter Notebook, Google Colab
