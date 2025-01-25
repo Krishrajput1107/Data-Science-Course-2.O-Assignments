@@ -1,4 +1,6 @@
 Data Science 2.0 Assignments
+
+
 Welcome to the Data Science 2.0 Assignments Repository! This repository contains a comprehensive collection of assignments I completed during the 9-month Data Science 2.0 course offered by Physics Wallah. These assignments demonstrate a wide range of skills, tools, and techniques essential for data science and machine learning.
 
 Contents
